@@ -32,10 +32,10 @@ for snow removal task.*
 <table>
   <tr>
     <td><p align='center'>
-    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/result.png#pic_center" width="100%" ></img></td>
+    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/result.png#pic_center" width="900" ></img></td>
   </tr>
   <tr>
-    <td><p align="center"><b>Overall Framework of SnowFormer</b></p></td>
+    <td><p align="center"><b>Results on CSD, SRRS, Snow100K datasets</b></p></td>
   </tr> 
 </table>
 
