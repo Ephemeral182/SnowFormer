@@ -28,6 +28,7 @@ for snow removal task.*
     <td><p align="center"> <b>PSNR v.s. Parameters on SRRS Dataset</b></p></td>
   </tr>
 </table>
+
 ## Installation
 Our SnowFormer is built in Pytorch1.12.0, we train and test it ion Ubuntu20.04 environment (Python3.8, Cuda11.6)
 
