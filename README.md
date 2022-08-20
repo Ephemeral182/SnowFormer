@@ -10,7 +10,16 @@ for snow removal task.*
 ##
 <p align='center'>
 <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/SnowFormer.png#pic_center" width="80%" ></img>
-
+<table>
+  <tr>
+    <td> <img src = "https://i.imgur.com/69c0pQv.png" width="500"> </td>
+    <td> <img src = "https://i.imgur.com/JJAKXOi.png" width="400"> </td>
+  </tr>
+  <tr>
+    <td><p align="center"><b>Overall Framework of MPRNet</b></p></td>
+    <td><p align="center"> <b>Supervised Attention Module (SAM)</b></p></td>
+  </tr>
+</table>
 ## Installation
 Our SnowFormer is built in Pytorch1.12.0, we train and test it ion Ubuntu20.04 environment (Python3.8, Cuda11.6)
 
