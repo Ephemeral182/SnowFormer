@@ -32,12 +32,13 @@ for snow removal task.*
 <table>
   <tr>
     <td><p align='center'>
-    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/SnowFormer.png#pic_center" width="80%" ></img></td>
+    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/result.png#pic_center" width="100%" ></img></td>
   </tr>
   <tr>
     <td><p align="center"><b>Overall Framework of SnowFormer</b></p></td>
   </tr> 
 </table>
+
 ## Installation
 Our SnowFormer is built in Pytorch1.12.0, we train and test it ion Ubuntu20.04 environment (Python3.8, Cuda11.6)
 
