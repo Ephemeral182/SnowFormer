@@ -24,8 +24,8 @@ for snow removal task.*
     <td> <img src = "https://github.com/Ephemeral182/SnowFormer/blob/master/image/PSNR_param_srrs.png" width="450"> </td>
   </tr>
   <tr>
-    <td><p align="center"><b>PSNR v.s. Parameters on CSD</b></p></td>
-    <td><p align="center"> <b>PSNR v.s. Parameters on SRRS(SAM)</b></p></td>
+    <td><p align="center"><b>PSNR v.s. Parameters on CSD Dataset</b></p></td>
+    <td><p align="center"> <b>PSNR v.s. Parameters on SRRS(SAM) Dataset</b></p></td>
   </tr>
 </table>
 ## Installation
@@ -38,3 +38,7 @@ conda activate py38
 conda install pytorch=1.12 
 pip install opencv-python tqdm tensorboardX ....
 ```
+
+## Citation 
+
+If you have any questions, please contact the email 282542428@qq.com, ephemeral182@gmail.com or 201921114013@jmu.edu.cn.
