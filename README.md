@@ -8,16 +8,24 @@
 for snow removal task.*
 
 ##
-<p align='center'>
-<img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/SnowFormer.png#pic_center" width="80%" ></img>
 <table>
   <tr>
-    <td> <img src = "https://i.imgur.com/69c0pQv.png" width="500"> </td>
-    <td> <img src = "https://i.imgur.com/JJAKXOi.png" width="400"> </td>
+    <td><p align='center'>
+    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/SnowFormer.png#pic_center" width="80%" ></img></td>
   </tr>
   <tr>
-    <td><p align="center"><b>Overall Framework of MPRNet</b></p></td>
-    <td><p align="center"> <b>Supervised Attention Module (SAM)</b></p></td>
+    <td><p align="center"><b>Overall Framework of SnowFormer</b></p></td>
+  </tr> 
+</table>
+
+<table>
+  <tr>
+    <td> <img src = "https://github.com/Ephemeral182/SnowFormer/blob/master/image/PSNR_param.png" width="450"> </td>
+    <td> <img src = "https://github.com/Ephemeral182/SnowFormer/blob/master/image/PSNR_param_srrs.png" width="450"> </td>
+  </tr>
+  <tr>
+    <td><p align="center"><b>PSNR v.s. Parameters on CSD</b></p></td>
+    <td><p align="center"> <b>PSNR v.s. Parameters on SRRS(SAM)</b></p></td>
   </tr>
 </table>
 ## Installation
