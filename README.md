@@ -25,7 +25,7 @@ for snow removal task.*
   </tr>
   <tr>
     <td><p align="center"><b>PSNR v.s. Parameters on CSD Dataset</b></p></td>
-    <td><p align="center"> <b>PSNR v.s. Parameters on SRRS(SAM) Dataset</b></p></td>
+    <td><p align="center"> <b>PSNR v.s. Parameters on SRRS Dataset</b></p></td>
   </tr>
 </table>
 ## Installation
