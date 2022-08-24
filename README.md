@@ -50,7 +50,7 @@ conda install pytorch=1.12
 pip install opencv-python tqdm tensorboardX ....
 ```
 ## Dataset
-We sample the 2000 images from every desnowing dataset for the test stage, including CSD, SRRS and Snow100K. We provide the download link, and the password is **ephe**.
+We sample the 2000 images from every desnowing dataset for the test stage, including CSD, SRRS and Snow100K. We provide the download link of datasets, and the password is **ephe**.
 
 <table>
   <tr>
