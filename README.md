@@ -76,6 +76,10 @@ python3  test.py --dataset_type CSD --dataset_CSD dataset_CSD --model_path model
 ```
 The rusults are saved in ./out/dataset_type/
 
+## TODO List
+- [X] Checkpoints of SRRS and Snow100K
+- [ ] Train.py
+
 ## Citation 
 ```Bibtex
 @misc{https://doi.org/10.48550/arxiv.2208.09703,
