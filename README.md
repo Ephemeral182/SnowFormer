@@ -40,9 +40,9 @@ for snow removal task.*
 </table>
 
 ## Installation
-Our SnowFormer is built in Pytorch1.12.0, we train and test it ion Ubuntu20.04 environment (Python3.8, Cuda11.6)
+Our SnowFormer is built in Pytorch1.12.0, we train and test it ion Ubuntu20.04 environment (Python3.8, Cuda11.6).
 
-For installing, please follow these intructions
+For installing, please follow these intructions.
 ```
 conda create -n py38 python=3.8
 conda activate py38
@@ -77,7 +77,7 @@ python3  test.py --dataset_type CSD --dataset_CSD dataset_CSD --model_path model
 The rusults are saved in ./out/dataset_type/
 
 ## TODO List
-- [X] Checkpoints of SRRS and Snow100K
+- [ ] Checkpoints of SRRS and Snow100K
 - [ ] Train.py
 
 ## Citation 
