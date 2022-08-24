@@ -49,6 +49,27 @@ conda activate py38
 conda install pytorch=1.12 
 pip install opencv-python tqdm tensorboardX ....
 ```
+## Dataset
+We sample the 2000 images from every desnowing dataset for the test stage, including CSD, SRRS and Snow100K. We provide the download link, and the password is **ephe**.
+
+<table>
+  <tr>
+    <th align="left">Dataset</th>
+    <th align="center">CSD</th>
+    <th align="center">SRRS</th>
+    <th align="center">Snow100K</th>
+  </tr>
+  <tr>
+    <td align="left">Link</td>
+    <td align="center"><a href="https://pan.baidu.com/s/133JxR-sCICZyIXAZSxS_GQ">Download</a></td>
+    <td align="center"><a href="https://pan.baidu.com/s/1vTBmacVkwp6qtjofMC4-Qg">Download</a></td>
+    <td align="center"><a href="https://pan.baidu.com/s/1TStTvd4GGF60HYTahvyxpA">Download</a></td>
+  </tr>
+ </table>
+
+## Test Stage
+
+
 
 ## Citation 
 ```Bibtex
