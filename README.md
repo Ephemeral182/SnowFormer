@@ -11,7 +11,7 @@ for snow removal task.*
 <table>
   <tr>
     <td><p align='center'>
-    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/SnowFormer.png#pic_center" width="80%" ></img></td>
+    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/SnowFormer1_1.jpg#pic_center" width="80%" ></img></td>
   </tr>
   <tr>
     <td><p align="center"><b>Overall Framework of SnowFormer</b></p></td>
