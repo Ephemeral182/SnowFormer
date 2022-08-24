@@ -51,5 +51,24 @@ pip install opencv-python tqdm tensorboardX ....
 ```
 
 ## Citation 
-
+```Bibtex
+@misc{https://doi.org/10.48550/arxiv.2208.09703,
+  doi = {10.48550/ARXIV.2208.09703},
+  
+  url = {https://arxiv.org/abs/2208.09703},
+  
+  author = {Chen, Sixiang and Ye, Tian and Liu, Yun and Chen, Erkang and Shi, Jun and Zhou, Jingchun},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {SnowFormer: Scale-aware Transformer via Context Interaction for Single Image Desnowing},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
+## Contact
 If you have any questions, please contact the email 282542428@qq.com, ephemeral182@gmail.com or 201921114013@jmu.edu.cn.
