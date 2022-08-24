@@ -67,7 +67,7 @@ We sample the 2000 images from every desnowing dataset for the test stage, inclu
   </tr>
  </table>
 
-## Test Stage
+## Testing Stage
 You can download pre-trained model of CSD from [Pre-trained model](https://pan.baidu.com/s/1zAUlrniCGgrONk0_8CBadw) &nbsp; **Password:ephe** and save it in model_path.
 
 Run the following commands:
