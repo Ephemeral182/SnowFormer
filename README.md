@@ -68,8 +68,13 @@ We sample the 2000 images from every desnowing dataset for the test stage, inclu
  </table>
 
 ## Test Stage
+You can download pre-trained model from [Pre-trained model](https://pan.baidu.com/s/1PA6sMo8MIr4HcaPOm6A15g) &nbsp; **Password:42w9** and save it in model_path.
 
-
+Run the following commands:
+```python
+python3  test.py --dataset_type CSD --dataset_CSD dataset_CSD --model_path model_path
+```
+The rusults are saved in ./out/dataset_type/
 
 ## Citation 
 ```Bibtex
