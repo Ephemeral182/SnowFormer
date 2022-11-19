@@ -7,36 +7,26 @@
 
 
 
-##
+## Network Architecture
 <table>
   <tr>
     <td><p align='center'>
-    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/SnowFormer1_1.jpg#pic_center" width="80%" ></img></td>
-  </tr>
-  <tr>
-    <td><p align="center"><b>Overall Framework of SnowFormer</b></p></td>
-  </tr> 
-</table>
+    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/2.png#pic_center" width="80%" ></img></td>
 
-<table>
-  <tr>
-    <td> <img src = "https://github.com/Ephemeral182/SnowFormer/blob/master/image/PSNR_param.png" width="450"> </td>
-    <td> <img src = "https://github.com/Ephemeral182/SnowFormer/blob/master/image/PSNR_param_srrs.png" width="450"> </td>
-  </tr>
-  <tr>
-    <td><p align="center"><b>PSNR v.s. Parameters on CSD Dataset</b></p></td>
-    <td><p align="center"> <b>PSNR v.s. Parameters on SRRS Dataset</b></p></td>
-  </tr>
 </table>
 
 <table>
   <tr>
     <td><p align='center'>
-    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/result.png#pic_center" width="900" ></img></td>
-  </tr>
+    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/1.png#pic_center" width="80%" ></img></td>
+
+</table>
+
+<table>
   <tr>
-    <td><p align="center"><b>Results on CSD, SRRS, Snow100K datasets</b></p></td>
-  </tr> 
+    <td><p align='center'>
+    <img src="https://github.com/Ephemeral182/SnowFormer/blob/master/image/table.png#pic_center" width="80%" ></img></td>
+
 </table>
 
 ## Installation
@@ -50,7 +40,7 @@ conda install pytorch=1.12
 pip install opencv-python tqdm tensorboardX ....
 ```
 ## Dataset
-We sample the 2000 images from every desnowing dataset for the test stage, including CSD, SRRS and Snow100K. We provide the download link of datasets, and the password is **ephe**.
+We sample the 2000 images from every desnowing dataset for the test stage, including CSD, SRRS, Snow100K, SnowCityScapes and SnowKITTI. We provide the download link of datasets, and the password is **ephe**.
 
 <table>
   <tr>
@@ -77,7 +67,7 @@ python3  test.py --dataset_type CSD --dataset_CSD dataset_CSD --model_path model
 The rusults are saved in ./out/dataset_type/
 
 ## TODO List
-- [ ] Checkpoints of SRRS and Snow100K
+- [ ] Checkpoints of SRRS, Snow100K, SnowCityScapes and SnowKITTI
 - [ ] Train.py
 
 ## Citation 
