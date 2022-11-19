@@ -1,5 +1,5 @@
-# SnowFormer: Scale-aware Transformer via Context Interaction for Single Image Desnowing
-**<font size=5>Authors:</font>** **Sixiang Chen<span>&#8224;</span>, Tian Ye<span>&#8224;</span>, Yun Liu<span>&#8224;</span>, Erkang Chen\*, Jun Shi, Jingchun Zhou**
+# SnowFormer: Context Interaction Transformer with Scale-awareness for Single Image Desnowing
+**<font size=5>Authors:</font>** **Sixiang Chen<span>&#8224;</span>, Tian Ye<span>&#8224;</span>, Yun Liu<span>&#8224;</span>, Erkang Chen\* **
 
 + **<span>&#8224;</span>**  &ensp;represents equal contributions.
 + **\***  &ensp;represents corresponding author.
