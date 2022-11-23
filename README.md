@@ -48,12 +48,16 @@ We sample the 2000 images from every desnowing dataset for the test stage, inclu
     <th align="center">CSD</th>
     <th align="center">SRRS</th>
     <th align="center">Snow100K</th>
+    <th align="center">SnowCityScapes</th>
+    <th align="center">SnowKITTI</th>
   </tr>
   <tr>
     <td align="left">Link</td>
     <td align="center"><a href="https://pan.baidu.com/s/133JxR-sCICZyIXAZSxS_GQ">Download</a></td>
     <td align="center"><a href="https://pan.baidu.com/s/1vTBmacVkwp6qtjofMC4-Qg">Download</a></td>
     <td align="center"><a href="https://pan.baidu.com/s/1TStTvd4GGF60HYTahvyxpA">Download</a></td>
+    <td align="center"><a href="https://pan.baidu.com/s/1hr2eaD95iW6sO40aCBBFwQ">Download</a></td>
+    <td align="center"><a href="https://pan.baidu.com/s/12WxsXEc_pUlAWqa594jm_Q">Download</a></td>
   </tr>
  </table>
 
