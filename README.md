@@ -84,4 +84,4 @@ The rusults are saved in ./out/dataset_type/
 }
 ```
 ## Contact
-If you have any questions, please contact the email 282542428@qq.com, ephemeral182@gmail.com or 201921114013@jmu.edu.cn.
+If you have any questions, please contact the email 282542428@qq.com, ephemeral182@gmail.com or sixiangchen@hkust-gz.edu.cn.
